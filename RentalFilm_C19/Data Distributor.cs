@@ -10,19 +10,19 @@ using System.Windows.Forms;
 
 namespace RentalFilm_C19
 {
-    public partial class Form3 : Form
+    public partial class Distributor : Form
     {
-        public Form3()
+        public Distributor()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button4_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }

@@ -1,6 +1,6 @@
 ﻿namespace RentalFilm_C19
 {
-    partial class Form2
+    partial class Distributor
     {
         /// <summary>
         /// Required designer variable.
