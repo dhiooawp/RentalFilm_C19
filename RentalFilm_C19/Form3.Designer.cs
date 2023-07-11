@@ -43,7 +43,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.button1.Location = new System.Drawing.Point(224, 267);
+            this.button1.Location = new System.Drawing.Point(226, 254);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 22);
             this.button1.TabIndex = 0;
@@ -54,7 +54,7 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.button2.Location = new System.Drawing.Point(343, 267);
+            this.button2.Location = new System.Drawing.Point(317, 254);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 22);
             this.button2.TabIndex = 1;
