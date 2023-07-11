@@ -44,12 +44,12 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button1.Location = new System.Drawing.Point(362, 317);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(75, 31);
             this.button1.TabIndex = 0;
-            this.button1.Text = "ADD";
+            this.button1.Text = "Add";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // label1
@@ -106,21 +106,21 @@
             // 
             this.textBox1.Location = new System.Drawing.Point(244, 74);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(227, 22);
+            this.textBox1.Size = new System.Drawing.Size(255, 22);
             this.textBox1.TabIndex = 6;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(246, 228);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(226, 22);
+            this.textBox2.Size = new System.Drawing.Size(253, 22);
             this.textBox2.TabIndex = 7;
             // 
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(247, 279);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(227, 22);
+            this.textBox3.Size = new System.Drawing.Size(252, 22);
             this.textBox3.TabIndex = 8;
             // 
             // dateTimePicker1
@@ -141,12 +141,12 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button2.Location = new System.Drawing.Point(269, 317);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(75, 31);
             this.button2.TabIndex = 11;
-            this.button2.Text = "EDIT";
+            this.button2.Text = "Edit";
             this.button2.UseVisualStyleBackColor = false;
             // 
             // Form4

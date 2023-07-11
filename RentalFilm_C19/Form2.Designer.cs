@@ -42,13 +42,13 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(325, 262);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(75, 32);
             this.button1.TabIndex = 0;
-            this.button1.Text = "SAVE";
+            this.button1.Text = "Save";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // label1
@@ -121,12 +121,12 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.button2.Location = new System.Drawing.Point(232, 262);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(75, 32);
             this.button2.TabIndex = 9;
-            this.button2.Text = "EDIT";
+            this.button2.Text = "Edit";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
