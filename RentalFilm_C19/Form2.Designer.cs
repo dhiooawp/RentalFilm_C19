@@ -75,7 +75,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Banner", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(77, 161);
+            this.label3.Location = new System.Drawing.Point(79, 161);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(61, 26);
             this.label3.TabIndex = 3;
@@ -134,7 +134,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.BackColor = System.Drawing.Color.RosyBrown;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox4);
