@@ -44,6 +44,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -171,7 +172,7 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.button2.Location = new System.Drawing.Point(304, 280);
+            this.button2.Location = new System.Drawing.Point(604, 77);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 33);
             this.button2.TabIndex = 12;
@@ -188,12 +189,23 @@
             this.button3.Text = "Refresh";
             this.button3.UseVisualStyleBackColor = false;
             // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            this.button4.Location = new System.Drawing.Point(304, 280);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 33);
+            this.button4.TabIndex = 14;
+            this.button4.Text = "Edit";
+            this.button4.UseVisualStyleBackColor = false;
+            // 
             // Form5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.RosyBrown;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -232,5 +244,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
     }
 }
