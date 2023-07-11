@@ -166,7 +166,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 34);
             this.button1.TabIndex = 9;
-            this.button1.Text = "Add";
+            this.button1.Text = "Save";
             this.button1.UseVisualStyleBackColor = false;
             // 
             // button2
